@@ -1,0 +1,14 @@
+training/colored_0/000005_10.png training/colored_1/000005_10.png training/disp_occ/000005_10.png
+training/colored_0/000018_10.png training/colored_1/000018_10.png training/disp_occ/000018_10.png
+training/colored_0/000039_10.png training/colored_1/000039_10.png training/disp_occ/000039_10.png
+training/colored_0/000058_10.png training/colored_1/000058_10.png training/disp_occ/000058_10.png
+training/colored_0/000068_10.png training/colored_1/000068_10.png training/disp_occ/000068_10.png
+training/colored_0/000076_10.png training/colored_1/000076_10.png training/disp_occ/000076_10.png
+training/colored_0/000083_10.png training/colored_1/000083_10.png training/disp_occ/000083_10.png
+training/colored_0/000092_10.png training/colored_1/000092_10.png training/disp_occ/000092_10.png
+training/colored_0/000102_10.png training/colored_1/000102_10.png training/disp_occ/000102_10.png
+training/colored_0/000112_10.png training/colored_1/000112_10.png training/disp_occ/000112_10.png
+training/colored_0/000120_10.png training/colored_1/000120_10.png training/disp_occ/000120_10.png
+training/colored_0/000135_10.png training/colored_1/000135_10.png training/disp_occ/000135_10.png
+training/colored_0/000173_10.png training/colored_1/000173_10.png training/disp_occ/000173_10.png
+training/colored_0/000187_10.png training/colored_1/000187_10.png training/disp_occ/000187_10.png
