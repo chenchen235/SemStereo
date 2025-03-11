@@ -3,7 +3,7 @@
   <p align="center">
     Anonymous
   </p>
-  <h3 align="center">AAAI 2025 Paper ID #1024</h3>
+  <h3 align="center">AAAI 2025</h3>
   <div align="center"></div>
 </p>
 
