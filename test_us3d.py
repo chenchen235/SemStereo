@@ -28,7 +28,7 @@ cudnn.benchmark = True
 
 parser = argparse.ArgumentParser(description='SemStereo: Semantic-Constrained Stereo Matching Network for Remote Sensing')
 
-parser.add_argument('--model', default='CS2_Net', help='select a model structure', choices=__models__.keys())
+parser.add_argument('--model', default='SemStereo', help='select a model structure', choices=__models__.keys())
 
 parser.add_argument('--maxdisp', type=int, default=64, help='maximum disparity')
 parser.add_argument('--num_classes', type=int, default=6, help='number of classes')

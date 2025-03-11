@@ -1,8 +1,5 @@
 <p align="center">
   <h1 align="center">SemStereo: Semantic-Constrained Stereo Matching Network for Remote Sensing</h1>
-  <p align="center">
-    Anonymous
-  </p>
   <h3 align="center">AAAI 2025</h3>
   <div align="center"></div>
 </p>
@@ -77,13 +74,13 @@ Download [US3D Datasets](https://ieee-dataport.org/open-access/urban-semantic-3d
 Firstly, train attention weights network for 48 epochs,
 
 ```
-python main_urabn.py --attention_weights_only True --seg_if True --stereo_if True
+python main_us3d.py --attention_weights_only True --seg_if True --stereo_if True
 ```
 
 Then, train the complete network for 48 epochs,
 
 ```
-python main_urabn.py --attention_weights_only False --seg_if True --stereo_if True
+python main_us3d.py --attention_weights_only False --seg_if True --stereo_if True
 ```
 
 ## Training for WHU. 
