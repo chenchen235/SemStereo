@@ -19,18 +19,12 @@ Remote sensing semantic 3D reconstruction necessitates the extraction of semanti
 Remote sensing provides a bird's-eye view with negligible perspective effect (size diminishing with distance), resulting in a single-peak disparity distribution for objects of the same category. This contrasts with street view, where perspective effect leads to a multi-peak form, implying a stronger inter-task consistency in remote sensing.
 </p>
 
-<p align="center">
-  <a href="">
-    <img src="./img/intro2.png" alt="Logo" width="90%">
-  </a>
-</p>
-<p align="center">
 
 We propose SemStereo to uncover the connections and bridge the domain gap between semantic categories and disparities in remote sensing.
 
 <p align="center">
   <a href="">
-    <img src="./img/SemStereo" alt="Logo" width="90%">
+    <img src="./img/SemStereo.png" alt="Logo" width="90%">
   </a>
 </p>
 <p align="center">
@@ -99,28 +93,14 @@ Then, train the complete network for 48 epochs,
 python main_whu.py --attention_weights_only False --seg_if True
 ```
 
-## Qualitative results on US3D
+## Citation
 
-### Stereo performance
-<p align="center">
-  <a href="">
-    <img src="./img/stereo1.png" alt="Logo" width="80%">
-  </a>
-</p>
-<p align="center">
+If you find this work useful, please consider citing:
 
-<p align="center">
-  <a href="">
-    <img src="./img/stereo2.png" alt="Logo" width="60%">
-  </a>
-</p>
-<p align="center">
-
-### Semantic performance
-
-<p align="center">
-  <a href="">
-    <img src="./img/semantic.png" alt="Logo" width="80%">
-  </a>
-</p>
-<p align="center">
+```bibtex
+@article{chen2024semstereo,
+  title={SemStereo: Semantic-Constrained Stereo Matching Network for Remote Sensing},
+  author={Chen, Chen and Zhao, Liangjin and He, Yuanchun and Long, Yingxuan and Chen, Kaiqiang and Wang, Zhirui and Hu, Yanfeng and Sun, Xian},
+  journal={arXiv preprint arXiv:2412.12685},
+  year={2024}
+}
