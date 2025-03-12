@@ -10,21 +10,20 @@ Remote sensing semantic 3D reconstruction necessitates the extraction of semanti
 
 <p align="center">
   <a href="">
-    <img src="./img/intro.png" alt="Logo" width="90%">
+    <img src="./img/intro.png" alt="Logo" width="80%">
   </a>
 </p>
 <p align="center">
 
-<p align="center">
+
 Remote sensing provides a bird's-eye view with negligible perspective effect (size diminishing with distance), resulting in a single-peak disparity distribution for objects of the same category. This contrasts with street view, where perspective effect leads to a multi-peak form, implying a stronger inter-task consistency in remote sensing.
-</p>
 
 
 We propose SemStereo to uncover the connections and bridge the domain gap between semantic categories and disparities in remote sensing.
 
 <p align="center">
   <a href="">
-    <img src="./img/SemStereo.png" alt="Logo" width="90%">
+    <img src="./img/SemStereo.png" alt="Logo" width="100%">
   </a>
 </p>
 <p align="center">
