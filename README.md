@@ -104,14 +104,14 @@ python main_whu.py --attention_weights_only False --seg_if True
 ### Stereo performance
 <p align="center">
   <a href="">
-    <img src="./img/stereo1.png" alt="Logo" width="100%">
+    <img src="./img/stereo1.png" alt="Logo" width="80%">
   </a>
 </p>
 <p align="center">
 
 <p align="center">
   <a href="">
-    <img src="./img/stereo2.png" alt="Logo" width="80%">
+    <img src="./img/stereo2.png" alt="Logo" width="60%">
   </a>
 </p>
 <p align="center">
@@ -120,7 +120,7 @@ python main_whu.py --attention_weights_only False --seg_if True
 
 <p align="center">
   <a href="">
-    <img src="./img/semantic.png" alt="Logo" width="100%">
+    <img src="./img/semantic.png" alt="Logo" width="80%">
   </a>
 </p>
 <p align="center">
