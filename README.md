@@ -4,6 +4,11 @@
   <div align="center"></div>
 </p>
 
+## Latest News
+
+**"SemStereo"** has been accepted at the **The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025).** You can access the paper on [arXiv](https://arxiv.org/abs/2412.12685).
+
+
 ## Introduction
 
 Remote sensing semantic 3D reconstruction necessitates the extraction of semantic segmentation contours and precise estimation of height through stereo matching. Current multi-task approaches utilize either a loosely coupled parallel structure with limited shallow features shared or models interactions implicitly, thus ignoring the stronger consistency between tasks due to changes in the observation perspective of remote sensing scenarios. In this work, we explore the connections between the two tasks and propose a new network that imposes semantic constraints on the stereo matching task, both implicitly and explicitly.
