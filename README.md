@@ -4,10 +4,11 @@
   <div align="center"></div>
 </p>
 
-## Latest News
+## News
 
-**"SemStereo"** has been accepted at the **The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025).** You can access the paper on [arXiv](https://arxiv.org/abs/2412.12685).
-
+- **2025.03.10** Code of our **SemStereo** is released. 🚀
+- **2024.12.12** Paper of **SemStereo** available in [arxiv](https://arxiv.org/abs/2412.12685).
+- **2024.12.10** **SemStereo** is accepted to **The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025).**. 🎉
 
 ## Introduction
 
