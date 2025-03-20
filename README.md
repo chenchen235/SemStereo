@@ -67,7 +67,7 @@ pip install timm==0.6.5
 ```
 
 ## Data Preparation
-Download [US3D Datasets](https://ieee-dataport.org/open-access/urban-semantic-3d-dataset), [WHU Datasets](http://gpcv.whu.edu.cn/data/WHU_MVS_Stereo_dataset.html).
+Download [US3D Datasets](https://ieee-dataport.org/open-access/data-fusion-contest-2019-dfc2019), [WHU Datasets](http://gpcv.whu.edu.cn/data/WHU_MVS_Stereo_dataset.html).
 
 ## Training for US3D
 Firstly, train attention weights network for 48 epochs,
